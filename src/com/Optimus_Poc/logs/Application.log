@@ -1,0 +1,36 @@
+10/06/2015 17:37:03 devpinoyLogger Properties loaded...
+10/06/2015 17:37:03 devpinoyLogger Intialize Suite.xlsx...
+10/06/2015 17:37:05 devpinoyLogger TestCases1 -- Y
+10/06/2015 17:37:05 devpinoyLogger Executing Suite TestCases1
+10/06/2015 17:37:05 devpinoyLogger Creating Back up of TestCases1.xlsx
+10/06/2015 17:37:05 devpinoyLogger Back_Up exceeds the limit...Overriding the oldest backup...
+10/06/2015 17:37:05 devpinoyLogger Backup created successfully...
+10/06/2015 17:37:05 devpinoyLogger Consolidated Test Data sheet exists...
+10/06/2015 17:37:05 devpinoyLogger IndianRailways -- N
+10/06/2015 17:37:05 devpinoyLogger Flipkart -- Y
+10/06/2015 17:37:05 devpinoyLogger Executing the test case -> Flipkart
+10/06/2015 17:37:06 devpinoyLogger Iteration - 1 Runmode - Y
+10/06/2015 17:37:06 devpinoyLogger opentheBrowser
+10/06/2015 17:37:19 devpinoyLogger PASS
+10/06/2015 17:37:19 devpinoyLogger navigate
+10/06/2015 17:37:28 devpinoyLogger PASS
+10/06/2015 17:37:28 devpinoyLogger maximize
+10/06/2015 17:37:35 devpinoyLogger PASS
+10/06/2015 17:37:35 devpinoyLogger writeTextByXpath
+10/06/2015 17:37:38 devpinoyLogger PASS
+10/06/2015 17:37:38 devpinoyLogger pause
+10/06/2015 17:37:41 devpinoyLogger PASS
+10/06/2015 17:37:41 devpinoyLogger clickByXpath
+10/06/2015 17:38:08 devpinoyLogger PASS
+10/06/2015 17:38:08 devpinoyLogger pause
+10/06/2015 17:38:11 devpinoyLogger PASS
+10/06/2015 17:38:11 devpinoyLogger writeIntegerTextByXpath
+10/06/2015 17:38:29 devpinoyLogger PASS
+10/06/2015 17:38:29 devpinoyLogger clickByXpath
+10/06/2015 17:38:31 devpinoyLogger PASS
+10/06/2015 17:38:31 devpinoyLogger pause
+10/06/2015 17:38:34 devpinoyLogger PASS
+10/06/2015 17:38:34 devpinoyLogger closeBrowser
+10/06/2015 17:38:38 devpinoyLogger PASS
+10/06/2015 17:38:38 devpinoyLogger 
+10/06/2015 17:38:40 devpinoyLogger Login_Google -- N
