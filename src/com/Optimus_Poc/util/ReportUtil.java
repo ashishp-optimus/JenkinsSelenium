@@ -16,8 +16,8 @@ import com.Optimus_Poc.test.Constants;
  */
 public class ReportUtil {
 	// Set the Configurations
-	public static String indexPageHeading = "Optimus_Poc_OMP Automation"; // Set the index page heading
-	public static String resultFolderName = "Optimus_Poc_OMP_Reports"; // Set the result folder name
+	public static String indexPageHeading = "Optimus_Poc"; // Set the index page heading
+	public static String resultFolderName = "Optimus_Poc"; // Set the result folder name
 	public static int totalTestPassedCount = 0;
 	public static int totalTestFailedCount = 0;
 	public static String chartTitle = "Report Overview";
