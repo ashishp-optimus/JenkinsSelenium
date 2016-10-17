@@ -1,4 +1,5 @@
 Commit by User1
+<<<<<<< HEAD
 sdf
 ds
 dfs
@@ -30,3 +31,25 @@ f
 f
 f
 f
+=======
+Commit by User2
+dfg
+dfgd
+fgdf
+gdfg
+dfgdf
+gdfg
+gdf
+gdfg
+dfgdf
+dfg
+dfg
+gfdf
+gdfgd
+df
+gdfg
+dfg
+dgf
+
+dsfsdf
+>>>>>>> e697c5df7daa8b0c57a3473740dad5b0d640aa66
